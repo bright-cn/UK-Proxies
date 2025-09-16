@@ -39,7 +39,7 @@
 - 支持 3G/4G/5G 移动 IP
 - 7x24 小时全球支持
 
-[![促销](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/locations/gb)
+[![促销](https://github.com/bright-cn/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/locations/gb)
 
 ## 英国代理快速入门
 1. 开始免费试用：无需信用卡。
